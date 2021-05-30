@@ -1,3 +1,5 @@
+<a href="https://momerio.github.io/" target="_blank" rel="noopener noreferrer">MY BLOG IS HERE!</a>
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momerio?theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momerio&theme=highcontrast&show_icons=true)
 
