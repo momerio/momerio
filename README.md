@@ -6,6 +6,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momerio&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![count](https://komarev.com/ghpvc/?username=momerio)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momerio&theme=monokai)
 <!-- Show all github activities -->
 <!-- [![](https://raw.githubusercontent.com/momerio/momerio/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
